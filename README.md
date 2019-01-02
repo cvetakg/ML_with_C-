@@ -31,9 +31,21 @@ or
 4.0.1-dev
 ```
 
-### Compile and run from the command line
+### Compile and run C++ from the command line
 
 ```
 sudo g++ program.cpp -o program
 ./program
+```
+
+### OpenCV from the command line
+
+https://docs.opencv.org/3.2.0/db/df5/tutorial_linux_gcc_cmake.html
+
+```
+mkdir build
+cd build
+cmake ..
+make
+./DisplayImage ../images/1.png
 ```
