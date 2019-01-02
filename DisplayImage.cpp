@@ -15,8 +15,19 @@ int main(int argc, char** argv )
         printf("No image data \n");
         return -1;
     }
+    
+    // Create a new matrix to hold the gray image
+    Mat gray;
+ 
+    // convert RGB image to gray
+    cvtColor(image, gray, COLOR_BGR2GRAY);
+    
     namedWindow("Display Image", WINDOW_AUTOSIZE );
     imshow("Display Image", image);
+    
+    namedWindow( "Gray Image", WINDOW_AUTOSIZE );   
+    imshow( "Gray Image", gray );
+    
     waitKey(0);
     return 0;
 }
