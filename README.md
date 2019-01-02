@@ -1,4 +1,4 @@
-# Machine Learning (Deep Learning for Computer Vision) with C++
+# Machine Learning and Computer Vision with C++
 
 ### OpenCV Installation in Linux - Building OpenCV from Source
 
