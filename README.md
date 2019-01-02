@@ -38,7 +38,7 @@ sudo g++ program.cpp -o program
 ./program
 ```
 
-### OpenCV from the command line
+### Compile and run OpenCV in C++ from the command line
 
 https://docs.opencv.org/3.2.0/db/df5/tutorial_linux_gcc_cmake.html
 
