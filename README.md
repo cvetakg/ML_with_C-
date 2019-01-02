@@ -30,3 +30,10 @@ or
 ~/opencv/build/bin$ ./opencv_version 
 4.0.1-dev
 ```
+
+### Compile and run from the command line
+
+```
+sudo g++ program.cpp -o program
+./program
+```
