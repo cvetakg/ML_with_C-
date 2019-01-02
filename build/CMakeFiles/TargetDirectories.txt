@@ -1,0 +1,3 @@
+/home/jelena/PROJECTS/ML_with_C-/build/CMakeFiles/edit_cache.dir
+/home/jelena/PROJECTS/ML_with_C-/build/CMakeFiles/rebuild_cache.dir
+/home/jelena/PROJECTS/ML_with_C-/build/CMakeFiles/DisplayImage.dir
